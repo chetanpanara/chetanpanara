@@ -54,22 +54,22 @@ export default function Contact() {
 
                 <div class="col-md-6">
                   <label for="name-field" class="pb-2">Your Name</label>
-                  <input type="text" name="name" id="name-field" style={"border-radius:8px;"} placeholder='Enter Name' class="form-control" required=""/>
+                  <input type="text" name="name" id="name-field"  placeholder='Enter Name' class="form-control" required=""/>
                 </div>
 
                 <div class="col-md-6">
                   <label for="email-field" class="pb-2">Your Email</label>
-                  <input type="email" class="form-control" name="email" style={"border-radius:8px;"} placeholder='Enter Email' id="email-field" required=""/>
+                  <input type="email" class="form-control" name="email" placeholder='Enter Email' id="email-field" required=""/>
                 </div>
 
                 <div class="col-md-12">
                   <label for="subject-field" class="pb-2">Subject</label>
-                  <input type="text" class="form-control" name="subject" style={"border-radius:8px;"} placeholder='Enter Subject' id="subject-field" required=""/>
+                  <input type="text" class="form-control" name="subject" placeholder='Enter Subject' id="subject-field" required=""/>
                 </div>
 
                 <div class="col-md-12">
                   <label for="message-field" class="pb-2">Message</label>
-                  <textarea class="form-control" name="message" rows="10" style={"border-radius:8px;"} placeholder='Enter Message' id="message-field" required=""></textarea>
+                  <textarea class="form-control" name="message" rows="10" placeholder='Enter Message' id="message-field" required=""></textarea>
                 </div>
 
                 <div class="col-md-12 text-center">
