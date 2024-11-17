@@ -7,7 +7,7 @@ export default function Herosection() {
   
     <section id="hero"  className="hero section">
 
-      <img src="/img/p6.png" alt="" data-aos="fade-in"/>
+      <img src="/img/p7.png" alt="" data-aos="fade-in"/>
 
       <div  className="container text-center" data-aos="zoom-out" data-aos-delay="100">
         <div  className="row justify-content-center">
