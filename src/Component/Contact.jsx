@@ -14,7 +14,7 @@ export default function Contact() {
         <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
       </div>
 
-      <div class="" data-aos="fade-up" data-aos-delay="100">
+      <div class="p-5" data-aos="fade-up" data-aos-delay="100">
 
         <div class="row gy-4">
 
