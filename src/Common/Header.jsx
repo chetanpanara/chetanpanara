@@ -8,8 +8,8 @@ export default function Header() {
        <header id="header" className="header d-flex align-items-center light-background sticky-top">
     <div className="container-fluid position-relative d-flex align-items-center justify-content-between">
 
-      <Link to="index.html" className="logo d-flex align-items-center me-auto me-xl-0">
-        <h1 className="sitename">Kelly</h1>
+      <Link to="/" className="logo d-flex align-items-center me-auto me-xl-0">
+        <h1 className="sitename">chetanpanara</h1>
           </Link>
           
       <nav id="navmenu" className="navmenu">
