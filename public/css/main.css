@@ -55,6 +55,7 @@
 :root {
   scroll-behavior: smooth;
 }
+
 /*--------------------------------------------------------------
 # General Styling & Shared Classes
 --------------------------------------------------------------*/
@@ -84,6 +85,7 @@ h6 {
   color: var(--heading-color);
   font-family: var(--heading-font);
 }
+
 /*--------------------------------------------------------------
 # Global Header
 --------------------------------------------------------------*/
@@ -151,11 +153,11 @@ h6 {
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
-.header a
-{
+.header a {
   text-decoration: none;
   color: #3498db;
 }
+
 /* Navmenu - Desktop */
 @media (min-width: 1200px) {
   .navmenu {
@@ -390,6 +392,7 @@ h6 {
     display: block;
   }
 }
+
 /*--------------------------------------------------------------
 # Global Footer
 --------------------------------------------------------------*/
@@ -434,10 +437,11 @@ h6 {
   font-size: 13px;
   text-align: center;
 }
-.credits a
-{
+
+.credits a {
   text-decoration: none;
 }
+
 /*--------------------------------------------------------------
 # Global Page Titles & Breadcrumbs
 --------------------------------------------------------------*/
@@ -531,13 +535,14 @@ section,
 .section-title p {
   margin-bottom: 0;
 }
+
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
-.hero a
-{
+.hero a {
   text-decoration: none;
 }
+
 .hero {
   width: 100%;
   min-height: 70vh;
@@ -609,13 +614,10 @@ section,
     transform: translateY(-10px);
   }
 }
+
 /*--------------------------------------------------------------
 # Services Section
 --------------------------------------------------------------*/
-.service-item a
-{
-  text-decoration: none;
-}
 .services .service-item {
   background-color: var(--surface-color);
   box-shadow: 0px 0 30px 0 rgba(0, 0, 0, 0.1);
@@ -705,10 +707,10 @@ section,
 /*--------------------------------------------------------------
 # Alt Services Section
 --------------------------------------------------------------*/
-.alt-services
-{
+.alt-services {
   margin-top: 30px;
 }
+
 .alt-services .img {
   border-radius: 8px;
   overflow: hidden;
@@ -748,10 +750,110 @@ section,
 .alt-services .service-item:hover .details h3 {
   color: var(--accent-color);
 }
-.alt-services a
-{
+
+.alt-services a {
   text-decoration: none;
 }
+
 .alt-services .service-item:hover .img img {
   transform: scale(1.2);
+}
+/*--------------------------------------------------------------
+# Contact Section
+--------------------------------------------------------------*/
+.contact {
+  background-image: url("../img/contact-bg.png");
+  background-position: left center;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+@media (max-width: 640px) {
+  .contact {
+    background-position: center 50px;
+    background-size: contain;
+  }
+}
+
+.contact:before {
+  content: "";
+  background: color-mix(in srgb, var(--background-color), transparent 30%);
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.contact .info-item+.info-item {
+  margin-top: 40px;
+}
+
+.contact .info-item i {
+  background: var(--accent-color);
+  color: var(--contrast-color);
+  font-size: 20px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+  transition: all 0.3s ease-in-out;
+  margin-right: 15px;
+}
+
+.contact .info-item h3 {
+  padding: 0;
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 5px;
+}
+
+.contact .info-item p {
+  padding: 0;
+  margin-bottom: 0;
+  font-size: 14px;
+}
+
+.contact .php-email-form {
+  height: 100%;
+}
+
+.contact .php-email-form input[type=text],
+.contact .php-email-form input[type=email],
+.contact .php-email-form textarea {
+  font-size: 14px;
+  padding: 10px 15px;
+  box-shadow: none;
+  border-radius: 0;
+  color: var(--default-color);
+  background-color: color-mix(in srgb, var(--background-color), transparent 50%);
+  border-color: color-mix(in srgb, var(--default-color), transparent 80%);
+  border-radius: 8px;
+}
+
+.contact .php-email-form input[type=text]:focus,
+.contact .php-email-form input[type=email]:focus,
+.contact .php-email-form textarea:focus {
+  border-color: var(--accent-color);
+}
+
+.contact .php-email-form input[type=text]::placeholder,
+.contact .php-email-form input[type=email]::placeholder,
+.contact .php-email-form textarea::placeholder {
+  color: color-mix(in srgb, var(--default-color), transparent 70%);
+}
+
+.contact .php-email-form button[type=submit] {
+  color: var(--contrast-color);
+  background: var(--accent-color);
+  border: 0;
+  padding: 10px 30px;
+  transition: 0.4s;
+  border-radius: 50px;
+}
+
+.contact .php-email-form button[type=submit]:hover {
+  background: color-mix(in srgb, var(--accent-color), transparent 20%);
 }
