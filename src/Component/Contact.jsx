@@ -23,7 +23,7 @@ export default function Contact() {
               <i class="bi bi-geo-alt flex-shrink-0"></i>
               <div>
                 <h3>Address</h3>
-                <p>Botad,Gujarat</p>
+                <p>B/H Mira park water tank,Girdharnagar,Botad-364710,Gujarat</p>
               </div>
             </div>
 
