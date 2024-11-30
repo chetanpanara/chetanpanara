@@ -34,6 +34,9 @@ export const Navbar = () => {
             </li>
             <li>
               <Link to="/service">Services</Link>
+              </li>
+               <li>
+              <Link to="/video">Videos</Link>
             </li>
             <li>
               <Link to="/contact">Contact</Link>

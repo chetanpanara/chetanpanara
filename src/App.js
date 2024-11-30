@@ -10,6 +10,9 @@ import Service from './Component/Service';
 import Contact from './Component/Contact';
 import Footer from './Menu/Footer';
 import About from './Component/About';
+import Youtubevideo from './Component/Youtubevideo';
+
+
 
 
 function App() {
@@ -27,6 +30,7 @@ function App() {
           <Route path="/" element={<Home></Home>} />
           <Route path="/about" element={<About></About>} />
           <Route path="/service" element={<Service></Service>} />
+            <Route path="/video" element={<Youtubevideo></Youtubevideo>} />
             <Route path="/contact" element={<Contact></Contact>} />
         </Routes>
         <Footer></Footer>
