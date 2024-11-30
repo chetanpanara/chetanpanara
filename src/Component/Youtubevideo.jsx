@@ -4,14 +4,17 @@ export default function Youtubevideo() {
   return (
     <>
     
-      <section id="about" class="about section mt-5">
+ <section id="services" class="services section mt-5">
 
-         <div class="container section-title" data-aos="fade-up">
+
+      <div class="container-fluid section-title" data-aos="fade-up">
         <h2>Youtube Videos</h2>
-        <p>Subscribe & Join us my YouTube channel</p>
+        <p>subscribe & join in youtube channel</p>
       </div>
-        
-      <div class="album  bg-body-tertiary">
+
+  
+
+         
     <div class="container">
 
             <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 g-3">
@@ -63,7 +66,9 @@ export default function Youtubevideo() {
 
       </div>
     </div>
-  </div>
+  
+
+     
 
     </section>
     
