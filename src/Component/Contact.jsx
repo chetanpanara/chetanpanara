@@ -1,5 +1,6 @@
 import React from 'react'
 import { BiBorderRadius } from 'react-icons/bi'
+import { FaInstagram } from "react-icons/fa6";
 
 export default function Contact() {
   return (
@@ -40,6 +41,14 @@ export default function Contact() {
               <div>
                 <h3>Email Us</h3>
                 <p>chetanpanara88@gmail.com</p>
+              </div>
+              </div>
+              
+              <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
+                    <i><FaInstagram /></i>
+              <div>
+                <h3>Instagram</h3>
+                <p>@_chetan_0207</p>
               </div>
             </div>
 
