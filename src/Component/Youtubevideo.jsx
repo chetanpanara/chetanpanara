@@ -11,14 +11,14 @@ export default function Youtubevideo() {
         <p>Subscribe & Join us my YouTube channel</p>
       </div>
         
-      <div class="album py-5 bg-body-tertiary">
+      <div class="album  bg-body-tertiary">
     <div class="container">
 
             <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 g-3">
               
         <div class="col">
           <div class="card shadow-sm">
-           <iframe src="https://www.youtube.com/embed/5vmyYPvW88k?si=sgsfTfvB4nk2jHai" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+           <iframe  src="https://www.youtube.com/embed/5vmyYPvW88k?si=sgsfTfvB4nk2jHai" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             <div class="card-body">
               <p class="card-text">How to create Registration Form in HTML & CSS || How to make Registration Form Using HTML and CSS</p>
               <div class="d-flex justify-content-between align-items-center">
