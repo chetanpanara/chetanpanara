@@ -4,6 +4,7 @@ import Footer from './Footer'
 import Hero from '../Component/Hero'
 import Service from '../Component/Service'
 import Contact from '../Component/Contact'
+import About from '../Component/About'
 
 
 export default function Home() {
@@ -16,12 +17,9 @@ export default function Home() {
    
       
       <Hero></Hero>
+      <About></About>
       <Service></Service>
       <Contact></Contact>
-        <Footer></Footer>    
-
-
-    
     </>
   )
 }

@@ -6,7 +6,7 @@ export default function Contact() {
     <>
     
 
-    <section id="contact" class="contact section">
+    <section id="contact" class="contact section mt-5">
 
       
       <div class="container section-title" data-aos="fade-up">
