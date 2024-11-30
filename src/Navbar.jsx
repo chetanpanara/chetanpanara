@@ -14,7 +14,7 @@ export const Navbar = () => {
              <nav className="fixed-top">
       <Link to="" className="title">
         <div className="image-text-container">
-          <span>ckp coding</span>
+          <span>chetanpanara</span>
         </div>
       </Link>
       <div className="menu" onClick={() => setMenuOpen(!menuOpen)}>

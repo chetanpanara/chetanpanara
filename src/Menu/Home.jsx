@@ -10,12 +10,6 @@ import About from '../Component/About'
 export default function Home() {
   return (
     <>
-    
-
-
-     
-   
-      
       <Hero></Hero>
       <About></About>
       <Service></Service>
