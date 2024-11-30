@@ -7,7 +7,7 @@ export default function Project() {
      <section id="services" class="services section mt-5">
 
 
-      <div class="container section-title" data-aos="fade-up">
+      <div class="container-fluid section-title" data-aos="fade-up">
         <h2>Projects</h2>
         <p>I have done this all project's</p>
       </div>

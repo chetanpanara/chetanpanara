@@ -8,7 +8,7 @@ export default function About() {
     <section id="about" class="about section mt-5">
 
     
-      <div class="container section-title" data-aos="fade-up">
+      <div class="container-fluid section-title" data-aos="fade-up">
         <h2>About Us</h2>
         <p>I'am Full stack developer to create robust,secure and scalable web applications using MERN stack.</p>
       </div>

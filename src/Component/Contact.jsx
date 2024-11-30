@@ -10,7 +10,7 @@ export default function Contact() {
     <section id="contact" class="contact section mt-5">
 
       
-      <div class="container section-title" data-aos="fade-up">
+      <div class="container-fluid section-title" data-aos="fade-up">
         <h2>Contact</h2>
         <p>Let's connect & build something great.</p>
       </div>
