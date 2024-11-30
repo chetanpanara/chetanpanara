@@ -31,13 +31,17 @@ export const Navbar = () => {
             </li>
             <li>
               <Link to="/about">About</Link>
+              </li>
+                 <li>
+              <Link to="/project">Project</Link>
             </li>
             <li>
               <Link to="/service">Services</Link>
               </li>
                <li>
               <Link to="/video">Videos</Link>
-            </li>
+              </li>
+              
             <li>
               <Link to="/contact">Contact</Link>
             </li>

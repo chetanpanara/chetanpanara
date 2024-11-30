@@ -8,7 +8,7 @@ export default function Footer() {
 
     <div class="container">
       <div class="copyright text-center ">
-        <p>© <span>Copyright</span> <strong class="px-1 sitename">ckpcoding</strong> <span>All Rights Reserved</span></p>
+        <p>© 2024<strong class="px-1 sitename">chetanpanara</strong> <span>All Rights Reserved</span></p>
       </div>
      
       <div class="credits">

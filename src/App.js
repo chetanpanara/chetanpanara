@@ -11,35 +11,37 @@ import Contact from './Component/Contact';
 import Footer from './Menu/Footer';
 import About from './Component/About';
 import Youtubevideo from './Component/Youtubevideo';
+import Project from './Component/Project';
+import { useState } from 'react';
+
 
 
 
 
 function App() {
+
+
   return (
+
+
   
     <>
       
-      
-    
-      
-
  <BrowserRouter>
         <Navbar></Navbar>
+
+        
         <Routes>
           <Route path="/" element={<Home></Home>} />
           <Route path="/about" element={<About></About>} />
           <Route path="/service" element={<Service></Service>} />
-            <Route path="/video" element={<Youtubevideo></Youtubevideo>} />
+          <Route path="/video" element={<Youtubevideo></Youtubevideo>} />
+           <Route path="/project" element={<Project></Project>} />
             <Route path="/contact" element={<Contact></Contact>} />
         </Routes>
         <Footer></Footer>
       </BrowserRouter>        
 
-    
-     
-     
- 
     </>
   
   );
