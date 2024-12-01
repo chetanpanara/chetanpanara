@@ -9,7 +9,7 @@ export default function Project() {
      
       <div class="container-fluid section-title" data-aos="fade-up">
         <h2>Projects</h2>
-        <p>Here can see all project to completed</p>
+        <p>Let's see I have completed some projects. you can get free source code in github link.</p>.
       </div>
 
       <div class="container">
