@@ -44,8 +44,8 @@ export default function Project() {
   </div>
 </div>
 
-            <div class="team-member" data-bs-toggle="modal" data-bs-target="#exampleModal">
-              <div class="member-img">
+            <div class="team-member">
+              <div class="member-img" data-bs-toggle="modal" data-bs-target="#exampleModal">
                 <img src="./img/project2.jpg" class="img-fluid" alt=""/>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter-x"></i></a>
@@ -57,7 +57,7 @@ export default function Project() {
               <div class="member-info">
                   <div className="d-flex">
                     <h4>Bistore Grocery Website</h4>
-                     <a href=""><i class="bi bi-github mx-4" ></i></a>
+                     <a href="https://github.com/chetanpanara/Bigstore-e-commerce-website"><i class="bi bi-github mx-4" ></i></a>
                 </div>
                 <span>Emphasized responsive design and robust back-end integration to provide a reliable and user-friendly online shopping experience.</span>
               </div>
@@ -96,8 +96,8 @@ Secure Donations: Integrated Razorpay for seamless and secure online donations f
   </div>
 </div>
 
-            <div class="team-member" data-bs-toggle="modal" data-bs-target="#exampleModal1">
-              <div class="member-img">
+            <div class="team-member" >
+              <div class="member-img" data-bs-toggle="modal" data-bs-target="#exampleModal1">
                 <img src="./img/project5.jpg" class="img-fluid" alt=""/>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter-x"></i></a>
