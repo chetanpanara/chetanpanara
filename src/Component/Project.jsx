@@ -17,23 +17,22 @@ export default function Project() {
           <div class="row gy-4">
             
 
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
+            <div class="col-lg-3 col-md-6  d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
               
               <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        
+         <div className="d-flex">
+                        <h4>Bistore Grocery Website</h4>
+                </div>
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
                   <div class="modal-body">
                      <div class="member-img">
                 <img src="./img/project2.jpg" class="img-fluid" alt=""/>
               </div>
-            <div class="member-info">
-                  <div className="d-flex">
-                        <h4>Bistore Grocery Website</h4>
-                </div>
+            <div class="member-info">           
                 <span>Developed features including User registration, login, and account management with secure authentication, Dynamic Shopping cart functionality allowing users to add, view, and remove products,checkout process and Admin panel for managing products,categories,orders, and user accounts with statistical insights.Emphasized responsive design and robust back-end integration to provide a reliable and user-friendly online shopping experience.</span>
               </div>
       </div>
@@ -65,23 +64,22 @@ export default function Project() {
             </div>
             </div>
             
-              <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
+         <div class="col-lg-3 col-md-6  d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
               
               <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        
+         <div className="d-flex">
+                        <h4>Bistore Grocery Website</h4>
+                </div>
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
                   <div class="modal-body">
                      <div class="member-img">
                 <img src="./img/project2.jpg" class="img-fluid" alt=""/>
               </div>
-            <div class="member-info">
-                  <div className="d-flex">
-                        <h4>Bistore Grocery Website</h4>
-                </div>
+            <div class="member-info">           
                 <span>Developed features including User registration, login, and account management with secure authentication, Dynamic Shopping cart functionality allowing users to add, view, and remove products,checkout process and Admin panel for managing products,categories,orders, and user accounts with statistical insights.Emphasized responsive design and robust back-end integration to provide a reliable and user-friendly online shopping experience.</span>
               </div>
       </div>
@@ -112,102 +110,6 @@ export default function Project() {
               </div>
             </div>
             </div>
-            
-              <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
-              
-              <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-                  <div class="modal-body">
-                     <div class="member-img">
-                <img src="./img/project2.jpg" class="img-fluid" alt=""/>
-              </div>
-            <div class="member-info">
-                  <div className="d-flex">
-                        <h4>Bistore Grocery Website</h4>
-                </div>
-                <span>Developed features including User registration, login, and account management with secure authentication, Dynamic Shopping cart functionality allowing users to add, view, and remove products,checkout process and Admin panel for managing products,categories,orders, and user accounts with statistical insights.Emphasized responsive design and robust back-end integration to provide a reliable and user-friendly online shopping experience.</span>
-              </div>
-      </div>
-      {/* <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
-      </div> */}
-    </div>
-  </div>
-</div>
-
-            <div class="team-member" data-bs-toggle="modal" data-bs-target="#exampleModal">
-              <div class="member-img">
-                <img src="./img/project2.jpg" class="img-fluid" alt=""/>
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter-x"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                  <div className="d-flex">
-                    <h4>Bistore Grocery Website</h4>
-                     <a href=""><i class="bi bi-github mx-4" ></i></a>
-                </div>
-                <span>Emphasized responsive design and robust back-end integration to provide a reliable and user-friendly online shopping experience.</span>
-              </div>
-            </div>
-            </div>
-            
-              <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
-              
-              <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-                  <div class="modal-body">
-                     <div class="member-img">
-                <img src="./img/project2.jpg" class="img-fluid" alt=""/>
-              </div>
-            <div class="member-info">
-                  <div className="d-flex">
-                        <h4>Bistore Grocery Website</h4>
-                </div>
-                <span>Developed features including User registration, login, and account management with secure authentication, Dynamic Shopping cart functionality allowing users to add, view, and remove products,checkout process and Admin panel for managing products,categories,orders, and user accounts with statistical insights.Emphasized responsive design and robust back-end integration to provide a reliable and user-friendly online shopping experience.</span>
-              </div>
-      </div>
-      {/* <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
-      </div> */}
-    </div>
-  </div>
-</div>
-
-            <div class="team-member" data-bs-toggle="modal" data-bs-target="#exampleModal">
-              <div class="member-img">
-                <img src="./img/project2.jpg" class="img-fluid" alt=""/>
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter-x"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                  <div className="d-flex">
-                    <h4>Bistore Grocery Website</h4>
-                     <a href=""><i class="bi bi-github mx-4" ></i></a>
-                </div>
-                <span>Emphasized responsive design and robust back-end integration to provide a reliable and user-friendly online shopping experience.</span>
-              </div>
-            </div>
-          </div>
 
         </div>
 
