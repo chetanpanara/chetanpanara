@@ -37,7 +37,7 @@ export const Navbar = () => {
               <Link to="/project">Project</Link>
             </li>
             <li>
-              <Link to="/service">Services</Link>
+              <Link to="/works">Works</Link>
               </li>
                <li>
               <Link to="/video">Videos</Link>

@@ -9,8 +9,8 @@ export default function Service() {
 
 
       <div class="container-fluid section-title" data-aos="fade-up">
-        <h2>Services</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <h2>Here's how I Can Help You</h2>
+        <p>Building digital experience. Let's Collaborate</p>
       </div>
 
       <div class="container">
