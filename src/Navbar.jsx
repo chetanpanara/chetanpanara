@@ -13,7 +13,8 @@ export const Navbar = () => {
     <div className="container">
              <nav className="fixed-top">
       <Link to="" className="title">
-        <div className="image-text-container">
+          <div className="image-text-container">
+            <img src="./img/ckp.png" alt="" height="60px" width="60px" />
           <span>chetanpanara</span>
         </div>
       </Link>

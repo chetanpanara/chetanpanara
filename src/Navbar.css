@@ -20,9 +20,11 @@ nav {
 .image-text-container {
   display: flex;
   align-items: center;
- 
 }
 
+.image-text-container img {
+  margin-left: 2px;
+}
 
 nav .title {
   font-size: 1.5rem;
