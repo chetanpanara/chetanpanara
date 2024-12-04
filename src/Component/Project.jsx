@@ -50,10 +50,8 @@ export default function Project() {
               <div class="member-img" data-bs-toggle="modal" data-bs-target="#exampleModal">
                 <img src="./img/project2.jpg" class="img-fluid" alt=""/>
                 <div class="social">
-                  <a href=""><i class="bi bi-twitter-x"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href="https://www.instagram.com/_chetan_0207"><i class="bi bi-instagram"></i></a>
+                  <a href="https://github.com/chetanpanara"><i class="bi bi-github"></i></a>
                 </div>
               </div>
               <div class="member-info">
@@ -102,16 +100,14 @@ Secure Donations: Integrated Razorpay for seamless and secure online donations f
               <div class="member-img" data-bs-toggle="modal" data-bs-target="#exampleModal1">
                 <img src="./img/project5.jpg" class="img-fluid" alt=""/>
                 <div class="social">
-                  <a href=""><i class="bi bi-twitter-x"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href="https://www.instagram.com/_chetan_0207"><i class="bi bi-instagram"></i></a>
+                  <a href="https://github.com/chetanpanara"><i class="bi bi-github"></i></a>
                 </div>
               </div>
               <div class="member-info">
                   <div className="d-flex">
                     <h4>Social App For Community Donations Website </h4>
-                     <a href=""><i class="bi bi-github mx-4" ></i></a>
+                    <a href="https://github.com/chetanpanara/Social-app"><i class="bi bi-github mx-4"></i></a>
                 </div>
                 <span>The Social App for community donations helps connect people, raise funds, support local causes, and empower positive change through collective action.</span>
               </div>

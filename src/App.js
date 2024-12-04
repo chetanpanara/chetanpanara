@@ -40,7 +40,6 @@ function App() {
           <Route path="/works" element={<Service></Service>} />
           <Route path="/video" element={<Youtubevideo></Youtubevideo>} />
           <Route path="/project" element={<Project></Project>} />
-           <Route path="/templates" element={<Template></Template>} />
             <Route path="/contact" element={<Contact></Contact>} />
         </Routes>
         <Footer></Footer>

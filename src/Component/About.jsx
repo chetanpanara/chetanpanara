@@ -30,7 +30,7 @@ I am a <b>Full Stack Developer</b> with expertise in both front-end and back-end
             <div class="row gy-4">
 
               <div class="col-md-6 icon-box position-relative">
-                <i class="bi bi-briefcase"></i>
+                <i class="bi bi-broadcast-pin"></i>
                 <h4><a href="" class="stretched-link">Live Projects</a></h4>
                 <p>I create live projects that solve real-world problems, offering hands-on experience in development, testing, deployment, and solution implementation.</p>
               </div>
@@ -42,13 +42,13 @@ I am a <b>Full Stack Developer</b> with expertise in both front-end and back-end
               </div>
 
               <div class="col-md-6 icon-box position-relative">
-                <i class="bi bi-broadcast"></i>
+                <i class="bi bi-github"></i>
                 <h4><a href="" class="stretched-link">Free Source code Available</a></h4>
                 <p>Free source code is available on GitHub, allowing easy access and collaboration for developers.</p>
               </div>
 
               <div class="col-md-6 icon-box position-relative">
-                <i class="bi bi-easel"></i>
+                <i class="bi bi-file-earmark-lock2-fill"></i>
                 <h4><a href="" class="stretched-link">Secure,scalable,robus website</a></h4>
                 <p>
 I create secure, scalable, and robust websites, ensuring reliability and performance for all users.</p>
