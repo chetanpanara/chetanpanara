@@ -55,7 +55,7 @@ export default function Contact() {
           </div>
 
           <div class="col-lg-7">
-            <form action="/" method="post" class="php-email-form" data-aos="fade-up" data-aos-delay="500">
+            <form  class="php-email-form" data-aos="fade-up" data-aos-delay="500">
               <div class="row gy-4">
 
                 <div class="col-md-6">
