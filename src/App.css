@@ -17,6 +17,26 @@ font-family: var(--heading-font);
     background: var(--accent-color);
 }
 
+.download1 {
+  background: var(--accent-color);
+  color: var(--contrast-color);
+  font-family: var(--heading-font);
+  font-weight: 500;
+  font-size: 15px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 10px 36px;
+  border-radius: 50px;
+  transition: 0.3s;
+  text-align: center;
+  border: 2px solid var(--accent-color);
+  text-decoration: none;
+}
+.download1:hover {
+  color: var(--contrast-color);
+  background: var(--accent-color);
+}
+
 :root {
   --default-font: "Roboto", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --heading-font: "Raleway", sans-serif;
