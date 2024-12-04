@@ -12,7 +12,7 @@ export default function Project() {
         <p>Let's see I have completed some projects. you can get free source code in github link.</p>.
       </div>
 
-      <div class="container">
+      <div class="container-fluid">
 
             <div class="d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
               
