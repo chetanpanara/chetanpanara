@@ -66,7 +66,7 @@ export default function Project() {
                     <p className='text-primary mt-2'><b>Feature:</b></p>
                 <span>Developed features including User registration, login, and account management with secure authentication, Dynamic Shopping cart functionality allowing users to add, view, and remove products,checkout process and Admin panel for managing products,categories,orders, and user accounts with statistical insights.Emphasized responsive design and robust back-end integration to provide a reliable and user-friendly online shopping experience.</span>
               <a href="https://github.com/chetanpanara/Bigstore-e-commerce-website" className='download1 mt-3'>Source code</a>
-                    <a href="https://github.com/chetanpanara/Bigstore-e-commerce-website/archive/refs/heads/main.zip" className='download mt-3 mx-2'>Download Zip</a>
+                    <a href="https://github.com/chetanpanara/Bigstore-e-commerce-website/archive/refs/heads/main.zip" className='download mt-3 mx-2'>Download</a>
                 </div>
                   </div>
                 </div>
@@ -135,7 +135,7 @@ Event Creation: Enabled users to create and manage fundraising events easily.
 Secure Donations: Integrated Razorpay for seamless and secure online donations for events.
                     </span>
                                   <a href="https://github.com/chetanpanara/Social-app" className='download1 mt-3'>Source code</a>
-              <a href="https://github.com/chetanpanara/Social-app/archive/refs/heads/main.zip" className='download mt-3 mx-2'>Download Zip</a>
+              <a href="https://github.com/chetanpanara/Social-app/archive/refs/heads/main.zip" className='download mt-3 mx-2'>Download</a>
                 </div>
                   </div>
                 </div>
