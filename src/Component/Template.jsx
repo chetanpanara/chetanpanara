@@ -16,7 +16,7 @@ export default function Template() {
           <div className="col-lg-12">
 
             
-            <div className="row justify-content-center mb-3">
+            <div className="row justify-content-center mb-5">
               <div className="col-lg-4 col-md-6">
                         <img src="./img/template/t3.png" alt="" className='img-fluid' />
               </div>
