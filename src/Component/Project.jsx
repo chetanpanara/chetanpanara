@@ -35,14 +35,13 @@ export default function Project() {
                 <img src="./img/project2.jpg" class="img-fluid" alt=""/>
               </div>
                       <div class="member-info">   
-                    <div className="language d-flex mb-3">
+                        <div className="language d-flex mb-3">
                           <button type="button" class="btn rounded-pill btn-outline-primary btn-sm">PHP</button>  
-                          <button type="button" class="btn rounded-pill btn-outline-primary btn-sm mx-2">HTML</button>
-                          <button type="button" class="btn rounded-pill btn-outline-primary btn-sm ">CSS</button> 
-                               <button type="button" class="btn rounded-pill btn-outline-primary btn-sm mx-2">Javascript</button>  
-                          <button type="button" class="btn rounded-pill btn-outline-primary btn-sm ">Bootstrap</button>
-                             <button type="button" class="btn rounded-pill btn-outline-primary btn-sm mx-2">MYSQL</button>
-                        </div>           
+                          <button type="button" class="btn rounded-pill btn-outline-primary btn-sm mx-2">HTML/CSS</button>
+                               <button type="button" class="btn rounded-pill btn-outline-primary btn-sm ">Javascript</button>  
+                          <button type="button" class="btn rounded-pill btn-outline-primary btn-sm mx-2">Bootstrap</button>
+                             <button type="button" class="btn rounded-pill btn-outline-primary btn-sm ">MYSQL</button>
+                        </div>            
                 <span>Developed features including User registration, login, and account management with secure authentication, Dynamic Shopping cart functionality allowing users to add, view, and remove products,checkout process and Admin panel for managing products,categories,orders, and user accounts with statistical insights.Emphasized responsive design and robust back-end integration to provide a reliable and user-friendly online shopping experience.</span>
               </div>
       </div>
@@ -96,11 +95,10 @@ export default function Project() {
                       <div class="member-info">    
                <div className="language d-flex mb-3">
                           <button type="button" class="btn rounded-pill btn-outline-primary btn-sm">PHP</button>  
-                          <button type="button" class="btn rounded-pill btn-outline-primary btn-sm mx-2">HTML</button>
-                          <button type="button" class="btn rounded-pill btn-outline-primary btn-sm ">CSS</button> 
-                               <button type="button" class="btn rounded-pill btn-outline-primary btn-sm mx-2">Javascript</button>  
-                          <button type="button" class="btn rounded-pill btn-outline-primary btn-sm ">Bootstrap</button>
-                             <button type="button" class="btn rounded-pill btn-outline-primary btn-sm mx-2">MYSQL</button>
+                          <button type="button" class="btn rounded-pill btn-outline-primary btn-sm mx-2">HTML/CSS</button>
+                               <button type="button" class="btn rounded-pill btn-outline-primary btn-sm ">Javascript</button>  
+                          <button type="button" class="btn rounded-pill btn-outline-primary btn-sm mx-2">Bootstrap</button>
+                             <button type="button" class="btn rounded-pill btn-outline-primary btn-sm ">MYSQL</button>
                         </div>          
                 <span>Features:
 User Login & Registration: Implemented secure user authentication for seamless access.
@@ -137,7 +135,8 @@ Secure Donations: Integrated Razorpay for seamless and secure online donations f
 </svg></a>
                 </div>
                 <span>The Social App for community donations helps connect people, raise funds, support local causes, and empower positive change through collective action.</span>
-                <a href="https://github.com/chetanpanara/Social-app/archive/refs/heads/main.zip" className='download mt-3 w-100'>Download</a>
+           
+                  <a href="https://github.com/chetanpanara/Social-app/archive/refs/heads/main.zip" className='download mt-3 w-100'>Download</a>
                 </div>
             </div>
             </div>
