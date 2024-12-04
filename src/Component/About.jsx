@@ -13,7 +13,7 @@ export default function About() {
         <p>I'am Full stack developer to create robust,secure and scalable web applications using MERN stack.</p>
       </div>
 
-      <div class="container-fluid p-5">
+      <div class="container-fluid p-4">
 
         <div class="row gy-5">
 
