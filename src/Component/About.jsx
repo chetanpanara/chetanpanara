@@ -28,7 +28,16 @@ I am a <b>Full Stack Developer</b> with expertise in both front-end and back-end
           </div>
 
           <div class="col-xl-7" data-aos="fade-up" data-aos-delay="200">
-            <div class="row gy-4">
+              <div class="row gy-4">
+                
+                      <div class="col-md-6 icon-box position-relative">
+               <i class="bi bi-book-half"></i>
+                <h4><a href="#" class="stretched-link">Skills</a></h4>
+                <p>
+<b>Programming Languages :</b>  C, C++, Advance Java, Javascript <br />
+<b>Web Development :</b> HTML, CSS, ReactJs, Express, Node, AgularJS, Bootstrap, PHP, Laravel <br />
+<b>Tools and Databases : </b>MongoDB, MySQL, GitHub, Figma</p>
+              </div>
 
               <div class="col-md-6 icon-box position-relative">
                 <i class="bi bi-broadcast-pin"></i>
@@ -48,12 +57,7 @@ I am a <b>Full Stack Developer</b> with expertise in both front-end and back-end
                 <p>Free source code is available on GitHub, allowing easy access and collaboration for developers.</p>
               </div>
 
-              <div class="col-md-6 icon-box position-relative">
-                <i class="bi bi-file-earmark-lock2-fill"></i>
-                <h4><a href="#" class="stretched-link">Secure,scalable,robus website</a></h4>
-                <p>
-I create secure, scalable, and robust websites, ensuring reliability and performance for all users.</p>
-              </div>
+        
 
             </div>
           </div>
