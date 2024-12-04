@@ -5,7 +5,7 @@ export default function About() {
     <>
     
       
-    <section id="about" class="about section">
+    <section id="about" class="about section mt-5">
 
     
       <div class="container-fluid section-title" data-aos="fade-up">
