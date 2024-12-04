@@ -49,10 +49,10 @@ export default function Project() {
             <div class="team-member">
               <div class="member-img" data-bs-toggle="modal" data-bs-target="#exampleModal">
                 <img src="./img/project2.jpg" class="img-fluid" alt=""/>
-                <div class="social">
+                {/* <div class="social">
                   <a href="https://www.instagram.com/_chetan_0207"><i class="bi bi-instagram"></i></a>
                   <a href="https://github.com/chetanpanara"><i class="bi bi-github"></i></a>
-                </div>
+                </div> */}
               </div>
               <div class="member-info">
                   <div className="d-flex">
@@ -101,10 +101,10 @@ Secure Donations: Integrated Razorpay for seamless and secure online donations f
             <div class="team-member" >
               <div class="member-img" data-bs-toggle="modal" data-bs-target="#exampleModal1">
                 <img src="./img/project5.jpg" class="img-fluid" alt=""/>
-                <div class="social">
+                {/* <div class="social">
                   <a href="https://www.instagram.com/_chetan_0207"><i class="bi bi-instagram"></i></a>
                   <a href="https://github.com/chetanpanara"><i class="bi bi-github"></i></a>
-                </div>
+                </div> */}
               </div>
               <div class="member-info">
                   <div className="d-flex">
