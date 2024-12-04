@@ -55,7 +55,7 @@ export default function Project() {
              
               </div>
                   </div>
-                  <div className="col-lg-6">
+                  <div className="col-lg-8">
        <div class="member-info">
                   <div className="d-flex">
                     <h4>Bistore Grocery Website</h4>
