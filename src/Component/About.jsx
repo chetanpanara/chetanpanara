@@ -19,9 +19,10 @@ export default function About() {
 
           <div class="content col-xl-5 d-flex flex-column" data-aos="fade-up" data-aos-delay="100">
             <h3>I'm Chetan Panara</h3>
-            <p>
+              <p>
+                Hello Everyone,I'm chetan panara.I'm from botad.I've done my bachelor degree in BCA from Shree Swaminarayan College of Computer Science in Bhavnagar <b>MKBU UNIVERSITY</b>.Currently i'm pursuing master degree in MCA from CMPICA in <b>CHARUSAT UNIVERSITY.</b><br /><br />
           
-I am a <b>Full Stack Developer</b> with expertise in both front-end and back-end technologies. I work with front-end frameworks like React.js and Angular, using HTML, CSS, and JavaScript to create dynamic, user-friendly interfaces. <br /> <br /> For back-end development, I use Node.js, Express.js, and databases like MongoDB or MySQL to build scalable, efficient server-side applications. I handle everything from designing and developing the user interface to creating APIs and managing data, ensuring seamless integration and deployment of web applications.
+I am a <b>Full Stack Developer</b> with expertise in both front-end and back-end technologies. I work with front-end frameworks like React.js and Angular, using HTML, CSS, and JavaScript to create dynamic, user-friendly interfaces. <br /> <br /> For <b>back-end development</b>, I use Node.js, Express.js, and databases like MongoDB or MySQL to build scalable, efficient server-side applications. I handle everything from designing and developing the user interface to creating APIs and managing data, ensuring seamless integration and deployment of web applications.
             </p>
             
           </div>
