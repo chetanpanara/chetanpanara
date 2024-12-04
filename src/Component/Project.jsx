@@ -59,8 +59,9 @@ export default function Project() {
                     <h4>Bistore Grocery Website</h4>
                      <a href="https://github.com/chetanpanara/Bigstore-e-commerce-website"><i class="bi bi-github mx-4" ></i></a>
                 </div>
-                <span>Emphasized responsive design and robust back-end integration to provide a reliable and user-friendly online shopping experience.</span>
-              </div>
+                <span>Developed features including User registration, login with secure authentication, Dynamic Shopping cart functionality allowing users to add, view, and remove products,checkout process and Admin panel for managing products,categories,orders, and user accounts with statistical insights.</span>
+              <a href="https://github.com/chetanpanara/Bigstore-e-commerce-website/archive/refs/heads/main.zip" className='download mt-3 w-100'>Download</a>
+                </div>
             </div>
             </div>
             
@@ -85,7 +86,8 @@ User Login & Registration: Implemented secure user authentication for seamless a
 Admin Panel: Developed an admin interface for managing users, events, and donations.
 Event Creation: Enabled users to create and manage fundraising events easily.
 Secure Donations: Integrated Razorpay for seamless and secure online donations for events.
-</span>
+                        </span>
+                                      
               </div>
       </div>
       {/* <div class="modal-footer">
@@ -110,7 +112,8 @@ Secure Donations: Integrated Razorpay for seamless and secure online donations f
                     <a href="https://github.com/chetanpanara/Social-app"><i class="bi bi-github mx-4"></i></a>
                 </div>
                 <span>The Social App for community donations helps connect people, raise funds, support local causes, and empower positive change through collective action.</span>
-              </div>
+                <a href="https://github.com/chetanpanara/Social-app/archive/refs/heads/main.zip" className='download mt-3 w-100'>Download</a>
+                </div>
             </div>
             </div>
 
