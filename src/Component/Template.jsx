@@ -17,10 +17,10 @@ export default function Template() {
 
             
             <div className="row justify-content-center">
-              <div className="col-lg-6 col-md-7">
+              <div className="col-lg-6 col-md-6">
                         <img src="./img/template/t1.webp" alt="" className='img-fluid' />
               </div>
-              <div className="col-lg-6 col-md-5">
+              <div className="col-lg-6 col-md-6">
                 <h3>iLanding - Bootstrap Landing Page Template</h3>
                 <p>iLanding is a clean and professional Bootstrap landing page template designed to showcase your business,
                   app, or service. With its sleek design and intuitive layout, iLanding provides a visually appealing experience that effortlessly highlights ...</p>
