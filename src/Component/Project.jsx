@@ -9,7 +9,7 @@ export default function Project() {
      
       <div class="container-fluid section-title" data-aos="fade-up">
         <h2>Projects</h2>
-        <p>Let's see I have completed some projects. you can get free source code in github link.</p>.
+        <p>Let's see I have completed some projects. you can get free source code in github & also download the zip file.</p>.
       </div>
 
       <div class="container-fluid">
@@ -65,7 +65,7 @@ export default function Project() {
                     </div>
                     <p className='text-primary mt-2'><b>Feature:</b></p>
                 <span>Developed features including User registration, login, and account management with secure authentication, Dynamic Shopping cart functionality allowing users to add, view, and remove products,checkout process and Admin panel for managing products,categories,orders, and user accounts with statistical insights.Emphasized responsive design and robust back-end integration to provide a reliable and user-friendly online shopping experience.</span>
-              <a href="https://github.com/chetanpanara/Bigstore-e-commerce-website" className='download1 mt-3'>View Source code</a>
+              <a href="https://github.com/chetanpanara/Bigstore-e-commerce-website" className='download1 mt-3'>Source code</a>
                     <a href="https://github.com/chetanpanara/Bigstore-e-commerce-website/archive/refs/heads/main.zip" className='download mt-3 mx-2'>Download</a>
                 </div>
                   </div>
@@ -134,7 +134,7 @@ Admin Panel: Developed an admin interface for managing users, events, and donati
 Event Creation: Enabled users to create and manage fundraising events easily.
 Secure Donations: Integrated Razorpay for seamless and secure online donations for events.
                     </span>
-                                  <a href="https://github.com/chetanpanara/Social-app" className='download1 mt-3'>View Source code</a>
+                                  <a href="https://github.com/chetanpanara/Social-app" className='download1 mt-3'>Source code</a>
               <a href="https://github.com/chetanpanara/Social-app/archive/refs/heads/main.zip" className='download mt-3 mx-2'>Download Zip</a>
                 </div>
                   </div>
