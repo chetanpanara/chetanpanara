@@ -15,6 +15,8 @@ export default function Project() {
       <div class="container">
 
           <div class="row gy-4">
+
+            
             
 
             <div class="col-lg-3 col-md-6  d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
