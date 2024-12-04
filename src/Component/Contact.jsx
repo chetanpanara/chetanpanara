@@ -40,7 +40,7 @@ export default function Contact() {
               <i class="bi bi-envelope flex-shrink-0"></i>
               <div>
                 <h3>Email Us</h3>
-                <p>chetanpanara88@gmail.com</p>
+                <p>chetanpanara8055@gmail.com</p>
               </div>
               </div>
               
