@@ -130,10 +130,10 @@ Secure Donations: Integrated Razorpay for seamless and secure online donations f
 </svg></Link>
                     </div>
                     <p className='text-primary mt-2'><b>Feature:</b></p>
-                <span>User Login & Registration: Implemented secure user authentication for seamless access.
-Admin Panel: Developed an admin interface for managing users, events, and donations.
-Event Creation: Enabled users to create and manage fundraising events easily.
-Secure Donations: Integrated Razorpay for seamless and secure online donations for events.
+                <span><b>User Login & Registration:</b> Implemented secure user authentication for seamless access.
+<b>Admin Panel: </b>Developed an admin interface for managing users, events, and donations.
+<b>Event Creation:</b> Enabled users to create and manage fundraising events easily.
+<b>Secure Donations:</b> Integrated Razorpay for seamless and secure online donations for events.
                     </span>
                                   <Link to="https://github.com/chetanpanara/Social-app" className='download1 mt-3'>Source code</Link>
               <Link to="https://github.com/chetanpanara/Social-app/archive/refs/heads/main.zip" className='download mt-3 mx-2'>Download</Link>
