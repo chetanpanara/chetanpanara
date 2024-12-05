@@ -6,9 +6,7 @@ export default function Hero() {
     <>
     
     
-      <section id="hero" class="hero section">
-        
-      <div class="container">
+      <div class="container hero section" id="hero">
         <div class="row gy-4">
           <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
             <h1>Hello!! I'm Chetan Panara</h1>
@@ -26,8 +24,7 @@ export default function Hero() {
         
      
 
-    </section>
-      
+    
     </>
   )
 }
