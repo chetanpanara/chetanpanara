@@ -332,8 +332,25 @@ orders and provide a receipt which will include all the details of the products 
 with appropriate price to their customers. Thus, saving time and eliminating line
 making process.
                     </span>
-                    <Link to={flyboxLInk } className='download1 mt-3'>Source code</Link>
-              <Link to={flyboxDownloadLink} className='download mt-3 mx-2'>Download</Link>
+                    <Link to={flyboxLInk} className='download1 mt-3' data-bs-toggle="modal" data-bs-target="#exampleModal03">Source code</Link>
+                     <Link to={flyboxDownloadLink} className='download mt-3 mx-2' data-bs-toggle="modal" data-bs-target="#exampleModal03">Download</Link>
+                    <div class="modal fade" id="exampleModal03" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title text-danger fs-5" id="exampleModalLabel">Opps! Sorry</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+          
+          sorry this project is paid so you can't open please contact chetanpanara
+
+      </div>
+    </div>
+  </div>
+</div>
+
+             
                 </div>
                   </div>
                 </div>
