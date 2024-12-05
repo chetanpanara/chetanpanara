@@ -6,7 +6,7 @@ export default function Hero() {
     <>
     
     
-      <section id="hero" class="hero section mt-5">
+      <section id="hero" class="hero section">
         
       <div class="container">
         <div class="row gy-4">
