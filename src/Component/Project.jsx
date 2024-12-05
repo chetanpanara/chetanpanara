@@ -1,7 +1,18 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
+
 export default function Project() {
+
+  const BigstoreGithubLink = "https://github.com/chetanpanara/Bigstore-e-commerce-website";
+  const BigstoreDownloadLink = "https://github.com/chetanpanara/Bigstore-e-commerce-website/archive/refs/heads/main.zip"
+  
+  const SocialappLink = "https://github.com/chetanpanara/Social-app";
+  const SocialappDownloadLink = "https://github.com/chetanpanara/Social-app/archive/refs/heads/main.zip";
+
+  const flyboxLInk = "https://github.com/chetanpanara/Flybox-Courier";
+  const flyboxDownloadLink = "https://github.com/chetanpanara/Flybox-Courier/archive/refs/heads/main.zip";
+
   return (
     <>
     
@@ -107,14 +118,14 @@ export default function Project() {
        <div className="member-info">
                   <div className="d-flex">
                     <h4>Bistore Grocery Website</h4>
-                     <Link to="https://github.com/chetanpanara/Bigstore-e-commerce-website"  className='mx-2'><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" className="bi bi-github" viewBox="0 0 16 16">
+                      <Link to={ BigstoreGithubLink}  className='mx-2'><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" className="bi bi-github" viewBox="0 0 16 16">
   <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8"/>
 </svg></Link>
                     </div>
                     <p className='text-primary mt-2'><b>Feature:</b></p>
                 <span>Developed features including User registration, login, and account management with secure authentication, Dynamic Shopping cart functionality allowing users to add, view, and remove products,checkout process and Admin panel for managing products,categories,orders, and user accounts with statistical insights.Emphasized responsive design and robust back-end integration to provide a reliable and user-friendly online shopping experience.</span>
-              <Link to="https://github.com/chetanpanara/Bigstore-e-commerce-website" className='download1 mt-3'>Source code</Link>
-                    <Link to="https://github.com/chetanpanara/Bigstore-e-commerce-website/archive/refs/heads/main.zip" className='download mt-3 mx-2'>Download</Link>
+              <Link to={ BigstoreGithubLink} className='download1 mt-3'>Source code</Link>
+                    <Link to={ BigstoreDownloadLink} className='download mt-3 mx-2'>Download</Link>
                 </div>
                   </div>
                 </div>
@@ -216,7 +227,7 @@ Secure Donations: Integrated Razorpay for seamless and secure online donations f
        <div className="member-info">
                   <div className="d-flex">
                     <h4>Social App For Community Donations Website</h4>
-                     <Link to="https://github.com/chetanpanara/Social-app"  className='mx-2'><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" className="bi bi-github" viewBox="0 0 16 16">
+                     <Link to={SocialappLink}  className='mx-2'><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" className="bi bi-github" viewBox="0 0 16 16">
   <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8"/>
 </svg></Link>
                     </div>
@@ -226,8 +237,8 @@ Secure Donations: Integrated Razorpay for seamless and secure online donations f
 <b>Event Creation:</b> Enabled users to create and manage fundraising events easily.
 <b>Secure Donations:</b> Integrated Razorpay for seamless and secure online donations for events.
                     </span>
-                                  <Link to="https://github.com/chetanpanara/Social-app" className='download1 mt-3'>Source code</Link>
-              <Link to="https://github.com/chetanpanara/Social-app/archive/refs/heads/main.zip" className='download mt-3 mx-2'>Download</Link>
+                                  <Link to={SocialappLink} className='download1 mt-3'>Source code</Link>
+              <Link to={SocialappDownloadLink} className='download mt-3 mx-2'>Download</Link>
                 </div>
                   </div>
                 </div>
@@ -309,7 +320,7 @@ making process.
                   <div className="d-flex">
                     <h4>Flybox Curier - A trusted provider of
 courier services</h4>
-                     <Link to="https://github.com/chetanpanara/Flybox-Courier"  className='mx-2'><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" className="bi bi-github" viewBox="0 0 16 16">
+                     <Link to={flyboxLInk}  className='mx-2'><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" className="bi bi-github" viewBox="0 0 16 16">
   <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8"/>
 </svg></Link>
                     </div>
@@ -321,8 +332,8 @@ orders and provide a receipt which will include all the details of the products 
 with appropriate price to their customers. Thus, saving time and eliminating line
 making process.
                     </span>
-                                  <Link to="https://github.com/chetanpanara/Flybox-Courier" className='download1 mt-3'>Source code</Link>
-              <Link to="https://github.com/chetanpanara/Flybox-Courier/archive/refs/heads/main.zip" className='download mt-3 mx-2'>Download</Link>
+                    <Link to={flyboxLInk } className='download1 mt-3'>Source code</Link>
+              <Link to={flyboxDownloadLink} className='download mt-3 mx-2'>Download</Link>
                 </div>
                   </div>
                 </div>
