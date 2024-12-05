@@ -13,7 +13,6 @@ import About from './Component/About';
 import Youtubevideo from './Component/Youtubevideo';
 import Project from './Component/Project';
 import { useState } from 'react';
-import Template from './Component/Template';
 
 
 
