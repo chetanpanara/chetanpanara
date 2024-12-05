@@ -88,8 +88,52 @@ export default function Project() {
         <button type="button" className="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
                   <div className="modal-body">
-                     <div className="member-img">
-                <img src="./img/project5.jpg" className="img-fluid" alt=""/>
+                     <div className="member-img mb-3">
+                       <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="./img/project/a1.png" class="d-block w-100" alt="..."/>
+    </div>
+    <div class="carousel-item">
+      <img src="./img/project/a22.png" class="d-block w-100" alt="..."/>
+    </div>
+    <div class="carousel-item">
+      <img src="./img/project/a3.png" class="d-block w-100" alt="..."/>
+                          </div>
+                          <div class="carousel-item">
+      <img src="./img/project/a4.png" class="d-block w-100" alt="..."/>
+                          </div>
+                          <div class="carousel-item">
+      <img src="./img/project/a5.png" class="d-block w-100" alt="..."/>
+                          </div>
+                          <div class="carousel-item">
+      <img src="./img/project/a6.png" class="d-block w-100" alt="..."/>
+                          </div>
+                           <div class="carousel-item">
+      <img src="./img/project/add1.png" class="d-block w-100" alt="..."/>
+                          </div>
+                           <div class="carousel-item">
+      <img src="./img/project/ad1.png" class="d-block w-100" alt="..."/>
+                          </div>
+                           <div class="carousel-item">
+      <img src="./img/project/ad2.png" class="d-block w-100" alt="..."/>
+                          </div>
+                           <div class="carousel-item">
+      <img src="./img/project/ad3.png" class="d-block w-100" alt="..."/>
+                          </div>
+                           <div class="carousel-item">
+      <img src="./img/project/ad4.png" class="d-block w-100" alt="..."/>
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
               </div>
                       <div className="member-info">   
                         <div className="language d-flex mb-3">
@@ -158,7 +202,7 @@ courier services</h4>
         <button type="button" className="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
                   <div className="modal-body">
-                     <div className="member-img">
+                     <div className="member-img mb-3">
               <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
