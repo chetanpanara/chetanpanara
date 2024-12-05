@@ -1,19 +1,19 @@
 import React from 'react'
-
+import { Link } from 'react-router-dom'
 export default function Footer() {
   return (
     <>
     
-      <footer id="footer" class="footer">
+      <footer id="footer" className="footer">
 
-    <div class="container">
-      <div class="copyright text-center ">
-        <p>© 2024<strong class="px-1 sitename">chetanpanara</strong> <span>All Rights Reserved</span></p>
+    <div className="container">
+      <div className="copyright text-center ">
+        <p>© 2024<strong className="px-1 sitename">chetanpanara</strong> <span>All Rights Reserved</span></p>
       </div>
      
-      <div class="credits">
+      <div className="credits">
      
-        Designed by <a href="#">chetanpanara</a>
+        Designed by <Link to="#">chetanpanara</Link>
       </div>
     </div>
 
