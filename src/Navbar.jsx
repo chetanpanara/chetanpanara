@@ -10,7 +10,8 @@ export const Navbar = () => {
  
 
   return (
-    <div className="container">
+    <section>
+          <div className="container">
              <nav className="fixed-top">
       <Link to="" className="title">
           <div className="image-text-container">
@@ -53,5 +54,6 @@ export const Navbar = () => {
       </div>
     </nav>
           </div>
+          </section>
   );
 };

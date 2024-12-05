@@ -5,7 +5,7 @@ export default function Service() {
     <>
       
       
-    <section id="services" class="services section mt-5">
+    <section id="services" class="services section">
 
 
       <div class="container-fluid section-title" data-aos="fade-up">

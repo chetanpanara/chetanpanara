@@ -4,7 +4,7 @@ export default function Project() {
   return (
     <>
     
-     <section id="team" class="team section mt-5">
+     <section id="team" class="team section">
 
      
       <div class="container-fluid section-title" data-aos="fade-up">
