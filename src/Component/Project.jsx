@@ -136,7 +136,7 @@ export default function Project() {
       </div>
                   <div className="modal-body">
                      <div className="member-img mb-3">
-                       <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+                       <div id="carouselExampleAutoplaying1" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="./img/project/a1.png" class="d-block w-100" alt="..."/>
@@ -172,11 +172,11 @@ export default function Project() {
       <img src="./img/project/ad4.png" class="d-block w-100" alt="..."/>
     </div>
   </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying1" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Previous</span>
   </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying1" data-bs-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </button>
@@ -250,7 +250,7 @@ courier services</h4>
       </div>
                   <div className="modal-body">
                      <div className="member-img mb-3">
-              <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+              <div id="carouselExampleAutoplaying2" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="./img/project/p1.png" class="d-block w-100" alt="..."/>
@@ -262,11 +262,11 @@ courier services</h4>
       <img src="./img/project/p3.png" class="d-block w-100" alt="..."/>
     </div>
   </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying2" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Previous</span>
   </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying2" data-bs-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </button>
