@@ -8,7 +8,8 @@ export default function Youtubevideo() {
       
   
 
-           <div className="container" id="hero">
+      <section>
+                  <div className="container" id="hero">
         <div className="row justify-content-center gy-4">
           <div className="col-lg-6   order-2 order-lg-1 d-flex flex-column justify-content-center">
             <h1 className='heroh1'>Welcome in ckp Infotech</h1>
@@ -25,6 +26,7 @@ you'll love my creativițy.</p>
           </div>
         </div>
       </div>
+      </section>
 
       <YoutubeNumber></YoutubeNumber>
     

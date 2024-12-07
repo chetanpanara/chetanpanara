@@ -6,7 +6,8 @@ export default function Hero() {
     <>
     
     
-      <div className="container" id="hero">
+      
+             <div className="container mb-5" id="hero">
         <div className="row justify-content-center gy-4">
           <div className="col-lg-6   order-2 order-lg-1 d-flex flex-column justify-content-center">
             <h1 className='heroh1'>Hello!! I'm Chetan Panara</h1>
@@ -20,6 +21,7 @@ export default function Hero() {
           </div>
         </div>
       </div>
+    
         
      
 
