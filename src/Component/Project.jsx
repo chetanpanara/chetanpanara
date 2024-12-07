@@ -4,21 +4,21 @@ import { Link } from 'react-router-dom'
 
 export default function Project() {
 
-  // const BigstoreGithubLink = "";
-  // const BigstoreDownloadLink = "";
-  // const SocialappLink = "";
-  // const SocialappDownloadLink = ""; 
-  // const flyboxLInk = "";
-  // const flyboxDownloadLink = ""; 
+  const BigstoreGithubLink = "";
+  const BigstoreDownloadLink = "";
+  const SocialappLink = "";
+  const SocialappDownloadLink = ""; 
+  const flyboxLInk = "";
+  const flyboxDownloadLink = ""; 
 
-  const BigstoreGithubLink = "https://github.com/chetanpanara/Bigstore-e-commerce-website";
-  const BigstoreDownloadLink = "https://github.com/chetanpanara/Bigstore-e-commerce-website/archive/refs/heads/main.zip"
+  // const BigstoreGithubLink = "https://github.com/chetanpanara/Bigstore-e-commerce-website";
+  // const BigstoreDownloadLink = "https://github.com/chetanpanara/Bigstore-e-commerce-website/archive/refs/heads/main.zip"
   
-  const SocialappLink = "https://github.com/chetanpanara/Social-app";
-  const SocialappDownloadLink = "https://github.com/chetanpanara/Social-app/archive/refs/heads/main.zip";
+  // const SocialappLink = "https://github.com/chetanpanara/Social-app";
+  // const SocialappDownloadLink = "https://github.com/chetanpanara/Social-app/archive/refs/heads/main.zip";
 
-  const flyboxLInk = "https://github.com/chetanpanara/Flybox-Courier";
-  const flyboxDownloadLink = "https://github.com/chetanpanara/Flybox-Courier/archive/refs/heads/main.zip";
+  // const flyboxLInk = "https://github.com/chetanpanara/Flybox-Courier";
+  // const flyboxDownloadLink = "https://github.com/chetanpanara/Flybox-Courier/archive/refs/heads/main.zip";
   
 
   return (
