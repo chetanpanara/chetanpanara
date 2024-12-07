@@ -10,7 +10,7 @@ export default function Youtubevideo() {
           <div className="container hero" id="hero">
         <div className="row justify-content-center gy-4">
           <div className="col-lg-7   order-2 order-lg-1 d-flex flex-column justify-content-center">
-            <h1 >Welcome in ckp Infotech world</h1>
+            <h1 >Welcome in ckp Infotech</h1>
             <p >Hey, I'm Developing unique projects and trying to make
 web development learning easy for freshy users in this
 field. Fast track your development career with me. Hope

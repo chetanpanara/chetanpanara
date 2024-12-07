@@ -7,12 +7,15 @@ background: var(--accent-color);
   font-size: 15px;
   letter-spacing: 1px;
   display: inline-block;
-  padding: 10px 26px;
+  padding: 12px 26px;
   border-radius: 50px;
   transition: 0.3s;
   text-align: center;
-  border: 2px solid var(--accent-color);
   text-decoration: none;
+}
+.youtubebtn:hover {
+  color: var(--contrast-color);
+  background: #1742a4;
 }
 .download
 {
@@ -21,7 +24,7 @@ font-family: var(--heading-font);
   font-size: 15px;
   letter-spacing: 1px;
   display: inline-block;
-  padding: 10px 26px;
+  padding: 12px 26px;
   border-radius: 50px;
   transition: 0.3s;
   text-align: center;
@@ -42,17 +45,16 @@ font-family: var(--heading-font);
   font-size: 15px;
   letter-spacing: 1px;
   display: inline-block;
-    padding: 10px 26px;
+    padding: 12px 26px;
   border-radius: 50px;
   transition: 0.3s;
   text-align: center;
-  border: 2px solid var(--accent-color);
   text-decoration: none;
   
 }
 .download1:hover {
   color: var(--contrast-color);
-  background: var(--accent-color);
+  background: #1742a4;
 }
 
 :root {
