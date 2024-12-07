@@ -15,7 +15,9 @@ export default function Footer() {
      
         Developed by <Link to="#">chetanpanara</Link>
       </div>
-    </div>
+        </div>
+        
+               
 
   </footer>
     

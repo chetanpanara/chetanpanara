@@ -12,6 +12,7 @@ export default function Project() {
 
   const flyboxLInk = "https://github.com/chetanpanara/Flybox-Courier";
   const flyboxDownloadLink = "https://github.com/chetanpanara/Flybox-Courier/archive/refs/heads/main.zip";
+  
 
   return (
     <>
@@ -365,21 +366,7 @@ making process.
                     <Link to={flyboxLInk} className='download1 mt-3' data-bs-toggle="modal" data-bs-target="#exampleModal03">Source code</Link>
                      <Link to={flyboxDownloadLink} className='download mt-3 mx-2' data-bs-toggle="modal" data-bs-target="#exampleModal03">Download</Link>
                     
-                    <div class="modal fade" id="exampleModal03" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h1 class="modal-title text-danger fs-5" id="exampleModalLabel">Opps! Sorry</h1>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-      <div class="modal-body">
-          
-          sorry you can't access this project please contact chetanpanara
-
-      </div>
-    </div>
-  </div>
-</div>
+       
 
              
                 </div>
