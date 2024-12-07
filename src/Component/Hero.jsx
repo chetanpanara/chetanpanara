@@ -6,13 +6,13 @@ export default function Hero() {
     <>
     
     
-      <div className="container hero" id="hero">
+      <div className="container" id="hero">
         <div className="row justify-content-center gy-4">
           <div className="col-lg-6   order-2 order-lg-1 d-flex flex-column justify-content-center">
-            <h1>Hello!! I'm Chetan Panara</h1>
-            <p>I'am Full stack developer to create robust,secure and scalable web applications using MERN stack.</p>
+            <h1 className='heroh1'>Hello!! I'm Chetan Panara</h1>
+            <p className='heropara'>I'am Full stack developer to create robust,secure and scalable web applications using MERN stack.</p>
             <div className="d-flex">
-              <Link to="/about" className="btn-get-started">Get Started</Link>
+              <Link to="/about" className="download">Get Started</Link>
             </div>
           </div>
           <div className="col-lg-6 order-1 order-lg-2 hero-img">
