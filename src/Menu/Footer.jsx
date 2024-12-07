@@ -13,7 +13,7 @@ export default function Footer() {
      
       <div className="credits">
      
-        Designed by <Link to="#">chetanpanara</Link>
+        Developed by <Link to="#">chetanpanara</Link>
       </div>
     </div>
 

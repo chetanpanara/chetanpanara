@@ -11,6 +11,7 @@ font-family: var(--heading-font);
   text-align: center;
   border: 2px solid var(--accent-color);
   text-decoration: none;
+  
 }
 .download:hover{
   color: var(--contrast-color);
@@ -31,6 +32,7 @@ font-family: var(--heading-font);
   text-align: center;
   border: 2px solid var(--accent-color);
   text-decoration: none;
+  
 }
 .download1:hover {
   color: var(--contrast-color);

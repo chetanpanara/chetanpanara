@@ -103,7 +103,7 @@ export default function Project() {
   </div>
 </div>
 
-              <div className="team-member">
+              <div className="team-member m-lg-4 m-md-3 m-1">
                 <div className="row">
                   <div className="col-lg-3 col-md-4">
                                  <div className="member-img" data-bs-toggle="modal" data-bs-target="#exampleModal">
@@ -122,7 +122,7 @@ export default function Project() {
                     </div>
                     <p className='text-primary mt-2'><b>Feature:</b></p>
                 <span>Developed features including User registration, login, and account management with secure authentication, Dynamic Shopping cart functionality allowing users to add, view, and remove products,checkout process and Admin panel for managing products,categories,orders, and user accounts with statistical insights.Emphasized responsive design and robust back-end integration to provide a reliable and user-friendly online shopping experience.</span>
-              <Link to={ BigstoreGithubLink} className='download1 mt-3' data-bs-toggle="modal" data-bs-target="#exampleModal03">Source code</Link>
+              <Link to={ BigstoreGithubLink}  className='download1 mt-3' data-bs-toggle="modal" data-bs-target="#exampleModal03">Source code</Link>
                     <Link to={ BigstoreDownloadLink} className='download mt-3 mx-2' data-bs-toggle="modal" data-bs-target="#exampleModal03">Download</Link>
                 
                                                        <div class="modal fade" id="exampleModal03" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -228,7 +228,7 @@ Secure Donations: Integrated Razorpay for seamless and secure online donations f
   </div>
 </div>
 
-              <div className="team-member">
+              <div className="team-member m-lg-4 m-md-3 m-1">
                 <div className="row">
                   <div className="col-lg-3 col-md-4">
                                  <div className="member-img" data-bs-toggle="modal" data-bs-target="#exampleModal1">
@@ -336,7 +336,7 @@ making process.
   </div>
 </div>
 
-              <div className="team-member">
+              <div className="team-member m-lg-4 m-md-3 m-1">
                 <div className="row">
                   <div className="col-lg-3 col-md-4">
                                  <div className="member-img" data-bs-toggle="modal" data-bs-target="#exampleModal2">
