@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import YoutubeNumber from './YoutubeNumber'
 
 export default function Youtubevideo() {
   return (
@@ -23,8 +24,10 @@ you'll love my creativițy.</p>
           </div>
         </div>
       </div>
+
+      <YoutubeNumber></YoutubeNumber>
     
- <section id="services" className="services section">
+ {/* <section id="services" className="services section">
 
 
       <div className="container-fluid section-title" data-aos="fade-up">
@@ -90,7 +93,7 @@ you'll love my creativițy.</p>
 
      
 
-    </section>
+    </section> */}
     
     
     </>

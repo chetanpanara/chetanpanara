@@ -42,7 +42,7 @@ export const Navbar = () => {
               <Link to="/works">Works</Link>
               </li>
                <li>
-              <Link to="/video">Videos</Link>
+              <Link to="/Youtube">Youtube</Link>
               </li>
               
             <li>
