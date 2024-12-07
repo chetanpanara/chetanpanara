@@ -17,7 +17,7 @@ export default function About() {
 
       <div className="container-fluid p-4">
 
-        <div className="row gy-5">
+        <div className="row gy-5 m-lg-4 m-md-2">
 
           <div className="content col-xl-5 d-flex flex-column" data-aos="fade-up" data-aos-delay="100">
             <h3>I'm Chetan Panara</h3>

@@ -26,7 +26,7 @@ export default function Project() {
 
       <div className="container-fluid">
 
-            <div className="d-flex align-items-stretch mb-3" data-aos="fade-up" data-aos-delay="400">
+            <div className="d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
               
               <div className="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div className="modal-dialog">
@@ -150,7 +150,7 @@ export default function Project() {
             </div>
           </div>
 
-                <div className="d-flex align-items-stretch mb-3" data-aos="fade-up" data-aos-delay="400">
+                <div className="d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
               
               <div className="modal fade" id="exampleModal1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div className="modal-dialog">
@@ -279,7 +279,7 @@ Secure Donations: Integrated Razorpay for seamless and secure online donations f
             </div>
           </div>
           
-              <div className="d-flex align-items-stretch mb-3" data-aos="fade-up" data-aos-delay="400">
+              <div className="d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
               
               <div className="modal fade" id="exampleModal2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div className="modal-dialog">

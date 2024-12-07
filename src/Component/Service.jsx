@@ -15,7 +15,7 @@ export default function Service() {
 
       <div className="container-fluid">
 
-        <div className="row gy-4">
+        <div className="row gy-4 m-lg-3">
 
           <div className="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="100">
             <div className="service-item position-relative">
