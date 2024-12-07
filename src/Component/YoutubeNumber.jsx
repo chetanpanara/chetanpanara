@@ -16,6 +16,14 @@ export default function YoutubeNumber() {
               <span  class="purecounter">70+</span>
               <p><strong>Repository</strong> <span>on Github</span></p>
             </div>
+            </div>
+            
+               <div class="col-lg-3 col-md-6">
+            <div class="stats-item">
+              <i class="bi bi-instagram"></i>
+              <span  class="purecounter">9000+</span>
+              <p><strong>Followers</strong> <span>On Instagram @ckp_infotech</span></p>
+            </div>
           </div>
 
           <div class="col-lg-3 col-md-6">
@@ -34,13 +42,7 @@ export default function YoutubeNumber() {
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6">
-            <div class="stats-item">
-              <i class="bi bi-instagram"></i>
-              <span  class="purecounter">9000+</span>
-              <p><strong>Followers</strong> <span>On Instagram @ckp_infotech</span></p>
-            </div>
-          </div>
+       
 
         </div>
 
