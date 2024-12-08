@@ -9,7 +9,7 @@ export default function Youtubevideo() {
 
   
   useEffect(() => { 
-    axios.get('https://chetanpanarabackend.onrender.comckck/data')
+    axios.get('https://chetanpanarabackend.onrender.com/data')
       .then(result => { 
         setvideos(result.data)
       })
