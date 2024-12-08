@@ -471,6 +471,13 @@ section,
 /*--------------------------------------------------------------
 # Global Section Titles
 --------------------------------------------------------------*/
+@media (max-width: 640px) {
+.section .section-title h2 {
+    font-size: 28px;
+    font-weight: 700;
+    position: relative;
+  }
+}
 .section-title {
   text-align: center;
   padding-bottom: 60px;

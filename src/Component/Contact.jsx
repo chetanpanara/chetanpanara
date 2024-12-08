@@ -8,7 +8,7 @@ export default function Contact() {
 
     const formRef = useRef(null); // Create a ref for the form
   const [notification, setNotification] = useState(''); // State for notification message
-     const alertbox="";
+    
 
    const onSubmit = async (event) => {
     event.preventDefault();
