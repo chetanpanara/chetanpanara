@@ -43,7 +43,7 @@ export default function Youtubevideo() {
         ) : (
           <div className="youtube-video-card-container">
             {videos.map((index) => (
-              <div className="youtube-video-card" key={index.id}>
+              <div className="youtube-video-card" style={{borderStyle:"none",background:"white"}} key={index.id}>
                 <div className="youtube-video-card-video">
                   <iframe
                     src={index.link}
