@@ -9,19 +9,11 @@ export default function Youtubevideo() {
    const [videos, setVideos] = useState([]);
   const [loading, setLoading] = useState(true); // Loading state
 
-<<<<<<< HEAD
   useEffect(() => {
     axios.get('https://chetanpanarabackend.onrender.com/data')
       .then(result => {
         setVideos(result.data);
         setLoading(false); // Set loading to false when data is fetched
-=======
-  
-  useEffect(() => { 
-    axios.get('https://chetanpanarabackend.onrender.com/data')
-      .then(result => { 
-        setvideos(result.data)
->>>>>>> 273f88e52ae01c3a3c8019b5dbc9be593806ae4b
       })
       .catch(err => {
         console.log(err);
