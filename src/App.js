@@ -12,7 +12,7 @@ import Footer from './Menu/Footer';
 import About from './Component/About';
 import Youtubevideo from './Component/Youtubevideo';
 import Project from './Component/Project';
-import { useState } from 'react';
+
 
 
 
@@ -32,7 +32,7 @@ function App() {
  <BrowserRouter>
         <Navbar></Navbar>
 
-      
+       
         
         <Routes>
           <Route path="/" element={<Home></Home>} />
