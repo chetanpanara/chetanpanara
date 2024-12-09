@@ -662,7 +662,7 @@ section,
 --------------------------------------------------------------*/
 .stats {
   padding: 0 0 30px 0;
-  background: #1742a4;
+  background: var(--accent-color);
 }
 
 .stats .stats-item {

@@ -4,6 +4,7 @@ import Service from '../Component/Service'
 import Contact from '../Component/Contact'
 import About from '../Component/About'
 import Project from '../Component/Project'
+import YoutubeNumber from '../Component/YoutubeNumber'
 
 
 export default function Home() {
@@ -13,6 +14,7 @@ export default function Home() {
      
       <About></About>
       <Project></Project>
+      <YoutubeNumber></YoutubeNumber>
       <Service></Service>
       <Contact></Contact>
     </>
