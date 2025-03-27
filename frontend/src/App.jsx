@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar'; // Import the Navbar component
 import './App.css';
 import Home from './pages/Home';
@@ -12,7 +12,7 @@ import YouTubeVideoPage from './pages/YouTubeVideoPage';
 
 function App() {
   return (
-    <Router>
+    <BrowserRouter>
       <div className="font-sans">
         {/* Navbar Component */}
         <Navbar />
@@ -28,7 +28,7 @@ function App() {
         </Routes>
         <Footer />
       </div>
-    </Router>
+    </BrowserRouter>
   );
 }
 
