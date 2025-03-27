@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, NavLink } from 'react-router-dom';
 
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -96,7 +96,7 @@ const Navbar = () => {
               overflow-y-auto md:overflow-visible
             ">
               <li className="relative group">
-                <Link
+                <NavLink
                   to="/"
                   onClick={closeMenu}
                   className={({ isActive }) => `
@@ -112,10 +112,10 @@ const Navbar = () => {
                   `}
                 >
                   Home
-                </Link>
+                </NavLink>
               </li>
               <li className="relative group">
-                <Link
+                <NavLink
                   to="/about"
                   onClick={closeMenu}
                   className={({ isActive }) => `
@@ -131,10 +131,10 @@ const Navbar = () => {
                   `}
                 >
                   About
-                </Link>
+                </NavLink>
               </li>
               <li className="relative group">
-                <Link
+                <NavLink
                   to="/works"
                   onClick={closeMenu}
                   className={({ isActive }) => `
@@ -150,10 +150,10 @@ const Navbar = () => {
                   `}
                 >
                   Works
-                </Link>
+                </NavLink>
               </li>
               <li className="relative group">
-                <Link
+                <NavLink
                   to="/projects"
                   onClick={closeMenu}
                   className={({ isActive }) => `
@@ -169,10 +169,10 @@ const Navbar = () => {
                   `}
                 >
                   Projects
-                </Link>
+                </NavLink>
               </li>
               <li className="relative group">
-                <Link
+                <NavLink
                   to="/youtube"
                   onClick={closeMenu}
                   className={({ isActive }) => `
@@ -188,10 +188,10 @@ const Navbar = () => {
                   `}
                 >
                  Youtube
-                </Link>
+                </NavLink>
               </li>
               <li className="relative group">
-                <Link
+                <NavLink
                   to="/contact"
                   onClick={closeMenu}
                   className={({ isActive }) => `
@@ -207,7 +207,7 @@ const Navbar = () => {
                   `}
                 >
                   Contact
-                </Link>
+                </NavLink>
               </li>
             </ul>
           </div>
