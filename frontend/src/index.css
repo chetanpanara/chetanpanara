@@ -1,0 +1,17 @@
+@import "tailwindcss";
+@import "flowbite/src/themes/default";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+
+.font-sans {
+  font-family: 'Inter', sans-serif;
+}
+body
+{
+  letter-spacing: 0.4px;
+}
+.page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  min-height: calc(100vh - 64px);
+}
